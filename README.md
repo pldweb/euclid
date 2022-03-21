@@ -1,4 +1,4 @@
 # euclid
 DO NOT USE
 
-https://raw.githack.com/pldweb/PlusJakartaSans/master/fonts/webfonts/plusjakartasans.css
+https://raw.githack.com/pldweb/euclid/main/euclid.css
